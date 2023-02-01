@@ -16,3 +16,18 @@ My favourite team is Banglore Challenges
 * Hardik Pandya
 
 ![Aboutme link](AboutMe.md)
+
+---
+# Recommended countries
+Countries details are shown below
+| Countries           | Reason to vist     | visiting days |  
+|---------------------|--------------------|---------------|
+| Russia              | Famous Literature  | 17            |
+| canada              | Scenery            | 21            |
+| united kingdom      | Stunning Castles   | 24            |
+| australia           | Tropical beaches   | 29            |
+
+
+
+
+
