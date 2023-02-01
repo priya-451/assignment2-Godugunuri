@@ -14,4 +14,3 @@ My favourite team is Banglore Challenges
 * M.S.Dhoni
 * Rahul
 * Hardik Pandya
- 
