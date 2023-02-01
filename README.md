@@ -37,6 +37,21 @@ Countries details are shown below
 >"I think God, in creating man, somewhat overestimated his ability."
 ―*Oscar Wilde*
 
+--------
+# code Fencing
+
+>[stack overflow link](https://stackoverflow.com/questions/70218486/how-to-replicate-fence-svg-as-a-gradient)
+
+```
+<svg viewBox="0 0 100 80" width="40" height="40">
+  <rect width="100" height="20"></rect>
+  <rect y="30" width="100" height="20"></rect>
+  <rect y="60" width="100" height="20"></rect>
+</svg>
+
+```
+[Link 2 svg](https://css-tricks.com/snippets/svg/svg-hamburger-menu/)
+
 
 
 
