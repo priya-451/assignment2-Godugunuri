@@ -18,14 +18,16 @@ My favourite team is Banglore Challenges
 ![Aboutme link](AboutMe.md)
 
 ---
+
 # Recommended countries
 Countries details are shown below
-| Countries           | Reason to vist     | visiting days |  
-|---------------------|--------------------|---------------|
-| Russia              | Famous Literature  | 17            |
-| canada              | Scenery            | 21            |
-| united kingdom      | Stunning Castles   | 24            |
-| australia           | Tropical beaches   | 29            |
+
+| Countries  | Reason to visit | visiting days |
+|------------|-----------------|---------------|
+| Russia     | Famous lierature| 18            |
+|canada      | Scenary         | 21            |
+|U.k         |Stunning Castles | 25            |
+|Austrila    | Tropical Beaches| 28            |
 
 
 
