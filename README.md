@@ -29,6 +29,14 @@ Countries details are shown below
 |U.k         |Stunning Castles | 25            |
 |Austrila    | Tropical Beaches| 28            |
 
+---
+
+# Pithy Quotes
+> "You only live once, but if you do it right, once is enough."― *Mae West*
+
+>"I think God, in creating man, somewhat overestimated his ability."
+―*Oscar Wilde*
+
 
 
 
