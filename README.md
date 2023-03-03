@@ -50,7 +50,7 @@ Countries details are shown below
 </svg>
 
 ```
-[Link 2 svg](https://css-tricks.com/snippets/svg/svg-hamburger-menu/)
+[Link 2 svg](https://css-tricks.com/snippets/svg/svg-hamburger-menu/)yh6uh7ju
 
 
 
